@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  width: 500px;
+  margin: 20px auto;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ml10 {
+  margin-left: 10px;
+}
+
+.done {
+  text-decoration: line-through;
+}
